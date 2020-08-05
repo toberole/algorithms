@@ -28,7 +28,7 @@ public class Test5 {
     }
 
     public static String longestCommonPrefix(String[] strs) {
-        if (strs.length == 0 && strs == null) return "";
+        if (strs.length == 0 || strs == null) return "";
         if (strs.length == 1) return strs[0];
 
         String res = "";
@@ -37,7 +37,7 @@ public class Test5 {
         for (int i = 0; i < tempStr.length(); i++) {
             char ch = tempStr.charAt(i);
             for (int j = 1; j < strs.length; j++) {
-                if (strs[j] == null || strs[j].length() < i || strs[j].charAt(i) != ch) return res;
+                if (strs[j] == null || strs[j].length() <= i || strs[j].charAt(i) != ch) return res;
             }
             res += ch;
         }

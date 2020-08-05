@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -25,42 +32,25 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test5.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="834">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#longestCommonPrefix#0;class#Test5#0" />
+                <element signature="e#664#675#0" expanded="true" />
+                <element signature="method#isValid#1;class#Test6#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
-              <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
-              <folding>
-                <element signature="e#5644#5645#0" expanded="true" />
-                <element signature="e#5675#5676#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-              <folding>
-                <element signature="e#177013#177014#0" expanded="true" />
-                <element signature="e#177054#177055#0" expanded="true" />
-              </folding>
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -87,6 +77,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test6.java" />
       </list>
     </option>
   </component>
@@ -157,7 +148,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -176,20 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test5">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test1" />
-      <module name="algorithms.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test6">
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test2" />
       <module name="algorithms.main" />
@@ -242,13 +220,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test6" />
+      <module name="algorithms.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test6" />
         <item itemvalue="Application.Test5" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -298,14 +289,20 @@
       <option name="project" value="LOCAL" />
       <updated>1596542552273</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="编写一个函数来查找字符串数组中的最长公共前缀。">
+      <created>1596604587938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596604587938</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-230" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19218415" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19700214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -382,7 +379,8 @@
     <MESSAGE value="给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。" />
     <MESSAGE value="判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。" />
     <MESSAGE value="罗马数字转整数" />
-    <option name="LAST_COMMIT_MESSAGE" value="罗马数字转整数" />
+    <MESSAGE value="编写一个函数来查找字符串数组中的最长公共前缀。" />
+    <option name="LAST_COMMIT_MESSAGE" value="编写一个函数来查找字符串数组中的最长公共前缀。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -444,9 +442,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="3432">
           <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
           <folding>
             <element signature="e#5644#5645#0" expanded="true" />
@@ -457,7 +465,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="122991">
           <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
           <folding>
             <element signature="e#177013#177014#0" expanded="true" />
@@ -466,13 +474,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test5.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="319">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#longestCommonPrefix#0;class#Test5#0" />
+            <element signature="e#664#675#0" expanded="true" />
+            <element signature="method#isValid#1;class#Test6#0" />
           </folding>
         </state>
       </provider>
