@@ -1,4 +1,7 @@
-package com.zw.base;
+package com.zw.base.test;
+
+import com.zw.base.bean.Car;
+import com.zw.base.bean.Person;
 
 public class TestClone {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.zw.base;
+package com.zw.base.bean;
 
 import java.io.Serializable;
 
