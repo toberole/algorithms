@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -69,10 +69,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test17.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="65" column="29" selection-start-line="15" selection-start-column="7" selection-end-line="65" selection-end-column="29" />
+            <state relative-caret-position="99">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -102,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test15.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test16.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test18.java" />
       </list>
     </option>
   </component>
@@ -205,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test17">
+  <component name="RunManager" selected="Application.Test18">
     <configuration name="Test14_X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test14_X" />
       <module name="algorithms_main" />
@@ -258,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.base.test.Test2" />
+    <configuration name="Test18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test18" />
       <module name="algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.base.test.*" />
+          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test18" />
         <item itemvalue="Application.Test17" />
         <item itemvalue="Application.Test16" />
         <item itemvalue="Application.Test15" />
         <item itemvalue="Application.Test14_X" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597058705944</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="二进制求和">
+      <created>1597061159378</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1597061159378</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -479,7 +487,8 @@
     <MESSAGE value="最大子序和" />
     <MESSAGE value="最后一个单词的长度" />
     <MESSAGE value="给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一" />
-    <option name="LAST_COMMIT_MESSAGE" value="给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一" />
+    <MESSAGE value="二进制求和" />
+    <option name="LAST_COMMIT_MESSAGE" value="二进制求和" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1596856476116">
@@ -640,8 +649,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="65" column="29" selection-start-line="15" selection-start-column="7" selection-end-line="65" selection-end-column="29" />
+        <state relative-caret-position="-755">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
