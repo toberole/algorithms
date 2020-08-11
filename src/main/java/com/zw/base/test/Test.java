@@ -1,5 +1,6 @@
 package com.zw.base.test;
 
+import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -9,7 +10,12 @@ public class Test {
         // test1();
 
         test2();
+
+        ObjectOutputStream objectOutputStream;
+        List<String> ls;
+        ArrayList<String> arrayList;
     }
+
 
     /**
      * 使用迭代器
