@@ -15,19 +15,18 @@ import com.zw.algorithms.bean.ListNode;
 public class Test7 {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 4};
-        ListNode l1 = createList_tail(arr1);
-        printList(l1);
+        ListNode l1 = ListNode.createList_tail(arr1);
+        ListNode.printList(l1);
 
         int[] arr2 = {1, 3, 4};
-        ListNode l2 = createList_tail(arr2);
-        printList(l2);
+        ListNode l2 = ListNode.createList_tail(arr2);
+        ListNode.printList(l2);
 
         ListNode l3 = mergeTwoLists(l1, l2);
-        printList(l3);
+        ListNode.printList(l3);
     }
 
     /**
-     *
      * @param l1 带有头节点的链表
      * @param l2 带有头节点的链表
      * @return
@@ -68,47 +67,6 @@ public class Test7 {
         }
 
         return res;
-    }
-
-
-    /**
-     * 尾插法
-     */
-    public static ListNode createList_tail(int[] arr) {
-        // 头节点
-        ListNode head = new ListNode();
-        ListNode l = head;
-        for (int i = 0; i < arr.length; i++) {
-            ListNode temp = new ListNode(arr[i]);
-            l.next = temp;
-            l = temp;
-        }
-
-        return head;
-    }
-
-    /**
-     * 头插法
-     */
-    public static ListNode createList_head(int[] arr) {
-        ListNode head = new ListNode();
-        for (int i = 0; i < arr.length; i++) {
-            ListNode temp = new ListNode(arr[i]);
-            temp.next = head.next;
-            head.next = temp;
-        }
-        return head;
-    }
-
-    private static void printList(ListNode l) {
-        if (l == null) return;
-        StringBuffer sb = new StringBuffer();
-
-        while ((l = l.next) != null) {
-            sb.append(l.val).append(" ");
-        }
-
-        System.out.println(sb.toString());
     }
 }
 
