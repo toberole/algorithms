@@ -1,4 +1,4 @@
-package com.zw.base.bean;
+package com.zw.base.domain;
 
 import java.io.Serializable;
 import java.util.Objects;

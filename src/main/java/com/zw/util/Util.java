@@ -1,4 +1,4 @@
-package com.zw.algorithms.test1;
+package com.zw.util;
 
 public class Util {
     public static void printArray(int[] nums) {
