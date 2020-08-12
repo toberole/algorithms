@@ -23,8 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -33,6 +31,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21_X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21_X.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,16 +72,20 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test20.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21_X.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="41" column="26" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="392">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+              <folding>
+                <element signature="method#merge#0;class#Test21_X#0" />
+                <element signature="method#merge#1;class#Test21_X#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test20.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Util.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21_X.java" />
       </list>
     </option>
   </component>
@@ -260,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test21_X">
+  <component name="RunManager">
     <configuration name="Test17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test17" />
       <module name="algorithms_main" />
@@ -474,14 +478,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597144599175</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Test21_X">
+      <created>1597146388859</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1597146388859</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-230" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1996788" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1996788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -566,7 +577,8 @@
     <MESSAGE value="求平方根" />
     <MESSAGE value="爬楼梯" />
     <MESSAGE value="删除排序链表中的重复元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除排序链表中的重复元素" />
+    <MESSAGE value="Test21_X" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test21_X" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1596856476116">
@@ -824,7 +836,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -835,10 +847,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21_X.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="392">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="method#merge#0;class#Test21_X#0" />
+            <element signature="method#merge#1;class#Test21_X#0" />
+          </folding>
         </state>
       </provider>
     </entry>
