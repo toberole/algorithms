@@ -1,8 +1,6 @@
 package com.zw.algorithms.test1;
 
-
-import com.zw.algorithms.bean.Tree;
-
+import com.zw.algorithms.bean.BTree;
 
 /**
  * 给定两个二叉树，编写一个函数来检验它们是否相同。
@@ -11,17 +9,26 @@ import com.zw.algorithms.bean.Tree;
  */
 public class Test22 {
     public static void main(String[] args) {
-        int[] nums = {1, 2, 0, 0, 3, 0, 0};
-        Tree.TreeValue treeValue = new Tree.TreeValue(nums);
+        // test1();
 
-        Tree.TreeNode root = new Tree.TreeNode();
-        Tree.createTree(root, treeValue);
-
-        System.out.println("*********************");
-        Tree.printTree(root);
+        test2();
     }
 
-    public static boolean isSameTree(Tree.TreeNode p, Tree.TreeNode q) {
+    private static void test2() {
+        int[] nums = {0, 2, 0, 1, 0, 3, 0};
+        BTree bTree = new BTree(nums);
+        bTree.midOrderCreate();
+        bTree.print();
+    }
+
+    public static void test1() {
+        int[] nums = {1, 2, 0, 0, 3, 0, 0};
+        BTree bTree = new BTree(nums);
+        bTree.preOrderCreate();
+        bTree.print();
+    }
+
+    public static boolean isSameTree(BTree p, BTree q) {
         return false;
     }
 }
