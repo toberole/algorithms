@@ -1,8 +1,3 @@
-? 通配符类型
-<? extends T> 表示类型的上界，表示参数化类型的可能是T 或是 T的子类
-<? super T> 表示类型下界（Java Core中叫超类型限定），表示参数化类型是此类型的超类型（父类型）直至Object
-
-范型 PECS原则
-    可读不可写：如果要从集合中读取类型T的数据，并且不能写入，可以使用 ? extends 通配符；(Producer Extends)
-    可写不可读：如果要从集合中写入类型T的数据，并且不需要读取，可以使用 ? super 通配符；(Consumer Super)
-    可读可写：如果既要存又要取，那么就不要使用任何通配符。
+https://www.jianshu.com/p/cda868b9d67f
+https://blog.csdn.net/qq_34120430/article/details/80043472
+https://blog.csdn.net/junwei_yu/article/details/38470747

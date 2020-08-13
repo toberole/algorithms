@@ -82,7 +82,7 @@ public class BTree {
         printTree(treeNode.right);
     }
 
-    private static class TreeValue {
+    public static class TreeValue {
         public int[] data;
         public int index;
 
@@ -92,7 +92,7 @@ public class BTree {
         }
     }
 
-    private static class TreeNode {
+    public static class TreeNode {
         public TreeNode left;
         public TreeNode right;
         public int val;

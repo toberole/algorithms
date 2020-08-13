@@ -9,16 +9,7 @@ import com.zw.algorithms.bean.BTree;
  */
 public class Test22 {
     public static void main(String[] args) {
-        // test1();
-
-        test2();
-    }
-
-    private static void test2() {
-        int[] nums = {0, 2, 0, 1, 0, 3, 0};
-        BTree bTree = new BTree(nums);
-        bTree.midOrderCreate();
-        bTree.print();
+        test1();
     }
 
     public static void test1() {
@@ -28,7 +19,10 @@ public class Test22 {
         bTree.print();
     }
 
-    public static boolean isSameTree(BTree p, BTree q) {
-        return false;
+    public static boolean isSameTree(BTree.TreeNode p, BTree.TreeNode q) {
+        if (p == null && q == null) return true;
+        if (p == null || q == null) return false;
+        if (p.val != q.val) return false;
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
