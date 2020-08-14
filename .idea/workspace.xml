@@ -22,23 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="合并两个有序数组">
-      <change afterPath="$PROJECT_DIR$/doc/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/test1/Test22.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/test1/Test22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/BTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/BTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree$TreeValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree$TreeValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,26 +75,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test22.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="1089">
+              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding>
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#generate#0;class#Test23#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2037">
-              <caret line="89" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="89" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="579">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -142,7 +138,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test22.java" />
         <option value="$PROJECT_DIR$/doc/note.md" />
         <option value="$PROJECT_DIR$/doc/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test24.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test25.java" />
       </list>
     </option>
   </component>
@@ -251,20 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test23">
-    <configuration name="Test19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test19" />
-      <module name="algorithms_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zw.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test25">
     <configuration name="Test20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test20" />
       <module name="algorithms_main" />
@@ -317,13 +302,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test25" />
+      <module name="algorithms_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test25" />
         <item itemvalue="Application.Test23" />
         <item itemvalue="Application.Test22" />
         <item itemvalue="Application.Test21_X" />
         <item itemvalue="Application.Test20" />
-        <item itemvalue="Application.Test19" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597199541369</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="杨辉三角">
+      <created>1597320978840</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1597320978840</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -581,7 +586,8 @@
     <MESSAGE value="删除排序链表中的重复元素" />
     <MESSAGE value="Test21_X" />
     <MESSAGE value="合并两个有序数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="合并两个有序数组" />
+    <MESSAGE value="杨辉三角" />
+    <option name="LAST_COMMIT_MESSAGE" value="杨辉三角" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1596856476116">
@@ -906,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="210">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="e#217#218#0" expanded="true" />
             <element signature="e#240#241#0" expanded="true" />
@@ -915,13 +921,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2037">
-          <caret line="89" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="89" />
+        <state relative-caret-position="297">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#generate#0;class#Test23#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>

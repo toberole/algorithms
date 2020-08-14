@@ -37,6 +37,7 @@ public class Test23 {
         System.out.println(sb);
     }
 
+
     public static List<List<Integer>> generate(int numRows) {
         List<List<Integer>> res = new ArrayList<>();
 
@@ -57,7 +58,7 @@ public class Test23 {
             res.add(line);
         }
 
-        if (numRows<=2)return res;
+        if (numRows <= 2) return res;
 
 
         List<Integer> line = new ArrayList<>();
