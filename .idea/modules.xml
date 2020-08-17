@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithms.test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithms.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithms_main.iml" group="algorithms" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithms_test.iml" group="algorithms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-algorithms.iml" filepath="$PROJECT_DIR$/.idea/modules/java-algorithms.iml" group="algorithms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-algorithms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-algorithms_main.iml" group="algorithms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-algorithms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-algorithms_test.iml" group="algorithms" />
     </modules>
   </component>
 </project>

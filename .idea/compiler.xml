@@ -6,6 +6,8 @@
       <module name="algorithms.test" target="1.8" />
       <module name="algorithms_main" target="1.8" />
       <module name="algorithms_test" target="1.8" />
+      <module name="java-algorithms_main" target="1.8" />
+      <module name="java-algorithms_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
