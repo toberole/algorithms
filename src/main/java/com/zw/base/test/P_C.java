@@ -1,13 +1,12 @@
 package com.zw.base.test;
 
-
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
- * 生产者 消费者
+ * 生产者 --- 消费者
  */
 public class P_C {
     public static Object lock = new Object();
@@ -71,26 +70,23 @@ public class P_C {
             }
         });
 
-        Thread c = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                for (int i = 0; i < 10; i++) {
-                    try {
-                        reentrantLock.lock();
-                        while (n == 0) {
-                            try {
-                                read_condition.await();
-                            } catch (InterruptedException e) {
-                                e.printStackTrace();
-                            }
+        Thread c = new Thread(() -> {
+            for (int i = 0; i < 10; i++) {
+                try {
+                    reentrantLock.lock();
+                    while (n == 0) {
+                        try {
+                            read_condition.await();
+                        } catch (InterruptedException e) {
+                            e.printStackTrace();
                         }
-
-                        n = 0;
-                        System.out.println("消费 ......\n");
-                        write_condition.signal();
-                    } finally {
-                        reentrantLock.unlock();
                     }
+
+                    n = 0;
+                    System.out.println("消费 ......\n");
+                    write_condition.signal();
+                } finally {
+                    reentrantLock.unlock();
                 }
             }
         });
