@@ -17,6 +17,8 @@ public class Test30 {
         obj.pop();
         int param_3 = obj.top();
         int param_4 = obj.getMin();
+
+
     }
 }
 
@@ -59,7 +61,7 @@ class MinStack {
 
     public int top() {
         stack.pop();
-        stack.peek();
+        return stack.peek();
     }
 
     public int getMin() {
