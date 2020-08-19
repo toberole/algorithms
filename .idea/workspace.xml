@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -33,7 +32,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test30.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -76,10 +74,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test31.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test33.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="132">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -139,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test30.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test31.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test32.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test33.java" />
       </list>
     </option>
   </component>
@@ -267,33 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test4">
-    <configuration name="HashMapManyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.base.test.HashMapManyThread" />
-      <module name="java-algorithms_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zw.base.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.base.test.P_C" />
-      <module name="java-algorithms_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zw.base.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test33">
     <configuration name="Test28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test28" />
       <module name="java-algorithms_main" />
@@ -320,6 +294,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test32" />
+      <module name="java-algorithms_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test33" />
+      <module name="java-algorithms_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zw.base.test.Test4" />
       <module name="java-algorithms_main" />
@@ -335,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test33" />
+        <item itemvalue="Application.Test32" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test30" />
         <item itemvalue="Application.Test28" />
-        <item itemvalue="Application.HashMapManyThread" />
-        <item itemvalue="Application.P_C" />
       </list>
     </recent_temporary>
   </component>
@@ -551,14 +551,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597753228999</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="编写一个程序，找到两个单链表相交的起始节点。">
+      <created>1597833393993</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1597833393993</updated>
+    </task>
+    <task id="LOCAL-00030" summary="两数之和 II - 输入有序数组">
+      <created>1597836336787</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1597836336787</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-230" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20770878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20770878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -567,7 +581,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39959636" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -575,7 +589,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010707" side_tool="true" weight="0.56104946" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.790111" />
       <window_info anchor="bottom" id="Build" order="9" weight="0.25227043" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49892932" weight="0.56104946" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.49892932" visible="true" weight="0.27547932" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -633,8 +647,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。" />
-    <MESSAGE value="判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。" />
     <MESSAGE value="罗马数字转整数" />
     <MESSAGE value="编写一个函数来查找字符串数组中的最长公共前缀。" />
     <MESSAGE value="给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。" />
@@ -658,7 +670,9 @@
     <MESSAGE value="只出现一次的数字" />
     <MESSAGE value="判断链表是否有环, 环的长度, 环的入口" />
     <MESSAGE value="设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。" />
+    <MESSAGE value="编写一个程序，找到两个单链表相交的起始节点。" />
+    <MESSAGE value="两数之和 II - 输入有序数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="两数之和 II - 输入有序数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1596856476116">
@@ -695,20 +709,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/com/sun/corba/se/impl/io/IIOPOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="147" column="22" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1217">
-          <caret line="370" column="19" selection-start-line="370" selection-start-column="19" selection-end-line="370" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/ObjectOutput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
@@ -1101,8 +1101,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test31.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="429">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
