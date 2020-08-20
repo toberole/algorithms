@@ -4,7 +4,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.DataOutputStream;
 import java.nio.ByteOrder;
 
-public class Test4 extends Object {
+public class Test4_ByteOrder extends Object {
     private int i = 0;
 
     public static void main(String[] args) {
