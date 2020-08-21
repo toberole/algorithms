@@ -44,7 +44,6 @@ public class TestThreadPool {
             executor.execute(new MyRunnable(i));
         }
 
-
         try {
             Thread.sleep(1000 * 5);
         } catch (InterruptedException e) {

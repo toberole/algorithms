@@ -1,5 +1,6 @@
 package com.zw.base.test;
 
+import java.util.Hashtable;
 import java.util.Vector;
 
 public class Test3 {
@@ -11,5 +12,8 @@ public class Test3 {
         Vector<String> vector = new Vector<>();
         vector.add("hello");
         vector.add("world");
+
+        Hashtable<String, String> hashtable = new Hashtable<>();
+        hashtable.put("hello", "world");
     }
 }

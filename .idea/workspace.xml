@@ -23,8 +23,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test35_X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test35_X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,58 +82,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test37.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-              <folding>
-                <element signature="e#2277#2278#0" expanded="true" />
-                <element signature="e#2355#2356#0" expanded="true" />
-                <element signature="e#2696#2697#0" expanded="true" />
-                <element signature="e#2734#2735#0" expanded="true" />
-                <element signature="e#2781#2782#0" expanded="true" />
-                <element signature="e#2838#2839#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
-              <folding>
-                <element signature="e#15215#15216#0" expanded="true" />
-                <element signature="e#15264#15265#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2170">
-              <caret line="428" column="11" selection-start-line="428" selection-start-column="11" selection-end-line="428" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="1196" column="29" selection-start-line="1196" selection-start-column="11" selection-end-line="1196" selection-end-column="29" />
+            <state relative-caret-position="247">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -138,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/DynamicProxyHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/DynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/B.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test2.java" />
@@ -171,7 +137,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test26.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test27.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/P_C.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/HashMapManyThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test28.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test29.java" />
@@ -188,6 +153,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test36.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/test_thread_pool.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test36.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test37.java" />
       </list>
     </option>
   </component>
@@ -247,7 +215,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zw" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -256,8 +224,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zw" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,13 +265,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestThreadPool">
+  <component name="RunManager" selected="Application.Test37_x">
     <configuration name="Test34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test34" />
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test34" />
       <module name="java-algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
+          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,11 +280,11 @@
       </method>
     </configuration>
     <configuration name="Test35_X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test35_X" />
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test35_X" />
       <module name="java-algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
+          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +293,11 @@
       </method>
     </configuration>
     <configuration name="Test36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test1.Test36" />
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test36" />
       <module name="java-algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test1.*" />
+          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5_Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.base.test.Test5_Thread" />
+    <configuration name="Test37_x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test37_x" />
       <module name="java-algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.base.test.*" />
+          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test37_x" />
         <item itemvalue="Application.TestThreadPool" />
         <item itemvalue="Application.Test36" />
         <item itemvalue="Application.Test35_X" />
         <item itemvalue="Application.Test34" />
-        <item itemvalue="Application.Test5_Thread" />
       </list>
     </recent_temporary>
   </component>
@@ -623,14 +591,20 @@
       <option name="project" value="LOCAL" />
       <updated>1597975446818</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="note">
+      <created>1597997437734</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1597997437734</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-230" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20770878" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20770878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -644,7 +618,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49946466" weight="0.65085775" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010707" side_tool="true" weight="0.27547932" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010707" side_tool="true" weight="0.48335016" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.790111" />
       <window_info anchor="bottom" id="Build" order="9" weight="0.25227043" />
       <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49892932" weight="0.62058526" />
@@ -720,7 +694,6 @@
     <MESSAGE value="买卖股票的最佳时机-1" />
     <MESSAGE value="买卖股票的最佳时机(2)" />
     <MESSAGE value="验证回文串" />
-    <MESSAGE value="note" />
     <MESSAGE value="只出现一次的数字" />
     <MESSAGE value="判断链表是否有环, 环的长度, 环的入口" />
     <MESSAGE value="设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。" />
@@ -730,7 +703,8 @@
     <MESSAGE value="多数元素" />
     <MESSAGE value="阶乘后的零" />
     <MESSAGE value="旋转数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="旋转数组" />
+    <MESSAGE value="note" />
+    <option name="LAST_COMMIT_MESSAGE" value="note" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1596856476116">
@@ -767,18 +741,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21_X.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="method#merge#0;class#Test21_X#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/Tree.java" />
     <entry file="file://$PROJECT_DIR$/doc/note.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -881,17 +843,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="6" />
-          <folding>
-            <element signature="e#5550#5551#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -912,17 +863,6 @@
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1022,20 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/Test4_ByteOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1045,13 +971,6 @@
             <element signature="e#1333#1334#0" expanded="true" />
             <element signature="e#1378#1379#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1080,30 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test35_X.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/Test5_Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -1124,13 +1019,6 @@
             <element signature="e#15704#15705#0" expanded="true" />
             <element signature="e#15770#15771#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1159,10 +1047,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/management/monitor/Monitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="1196" column="29" selection-start-line="1196" selection-start-column="11" selection-end-line="1196" selection-end-column="29" />
+        <state relative-caret-position="957">
+          <caret line="1532" column="52" selection-start-line="1532" selection-start-column="52" selection-end-line="1532" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -1173,10 +1061,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+        <state relative-caret-position="69">
+          <caret line="601" column="8" selection-start-line="601" selection-start-column="8" selection-end-line="601" selection-end-column="8" />
           <folding>
             <element signature="e#15215#15216#0" expanded="true" />
             <element signature="e#15264#15265#0" expanded="true" />
@@ -1184,10 +1079,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="900" column="20" selection-start-line="900" selection-start-column="20" selection-end-line="900" selection-end-column="20" />
+          <folding>
+            <element signature="e#60039#60040#0" expanded="true" />
+            <element signature="e#60075#60076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="782" column="32" selection-start-line="782" selection-start-column="32" selection-end-line="782" selection-end-column="32" />
+          <folding>
+            <element signature="e#5550#5551#0" expanded="true" />
+            <element signature="e#5590#5591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="456" column="38" selection-start-line="456" selection-start-column="38" selection-end-line="456" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        <state relative-caret-position="375">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#2277#2278#0" expanded="true" />
             <element signature="e#2355#2356#0" expanded="true" />
@@ -1196,6 +1132,58 @@
             <element signature="e#2781#2782#0" expanded="true" />
             <element signature="e#2838#2839#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test35_X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>

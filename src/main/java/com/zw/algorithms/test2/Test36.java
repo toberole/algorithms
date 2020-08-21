@@ -1,4 +1,4 @@
-package com.zw.algorithms.test1;
+package com.zw.algorithms.test2;
 
 /**
  * 旋转数组
@@ -23,16 +23,42 @@ public class Test36 {
     public static void main(String[] args) {
         int nums[] = {1, 2, 3, 4, 5, 6, 7};
         rotate(nums, 3);
+
         for (int i = 0; i < nums.length; i++) {
             System.out.println(nums[i]);
         }
     }
 
+    /**
+     * 翻转
+     * 第一步：
+     * 翻转整个数组
+     * 第二步：
+     * 翻转[0,k-1]、[k,len-1]数组
+     */
     public static void rotate(int[] nums, int k) {
+        k = k % nums.length;
+        reverse(nums, 0, nums.length - 1);
+        reverse(nums, 0, k - 1);
+        reverse(nums, k, nums.length - 1);
 
     }
 
+    private static void reverse(int[] nums, int start, int end) {
+        while (start <= end && end >= 0 && start < nums.length) {
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
+        }
+    }
+
+    /**
+     * 双重循环方法
+     */
     public static void rotate1(int[] nums, int k) {
+        k = k % nums.length;// 注意移动步长如果是等于数组长度 就相当于没有移动
         for (int i = 0; i < k; i++) {
             int temp = nums[nums.length - 1];
             for (int j = nums.length - 1; j > 0; j--) {

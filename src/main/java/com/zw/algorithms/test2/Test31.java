@@ -1,4 +1,4 @@
-package com.zw.algorithms.test1;
+package com.zw.algorithms.test2;
 
 import com.zw.algorithms.bean.ListNode;
 
