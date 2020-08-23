@@ -16,6 +16,18 @@ public class ListNode {
         this.next = next;
     }
 
+    public static int getListLen(ListNode head) {
+        if (head == null || head.next == null) return 0;
+        int len = 0;
+        head = head.next;
+        while (head != null) {
+            len++;
+            head = head.next;
+        }
+
+        return len;
+    }
+
     /**
      * 尾插法
      */

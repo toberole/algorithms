@@ -1,10 +1,7 @@
 package com.zw.base.test;
 
 import java.lang.reflect.Method;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Test2 {
 
@@ -25,6 +22,9 @@ public class Test2 {
         b.t();
 
         Collection collection = null;
+
+        LinkedHashMap<String, String> linkedHashMap = new LinkedHashMap<>();
+        linkedHashMap.put("hello", "world");
     }
 
     /**

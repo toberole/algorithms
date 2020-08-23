@@ -19,18 +19,52 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/sort/MergeSort_L.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_122.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_122.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/test1/Test13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/test1/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/TestClone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/bean/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/bean/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/bean/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/test/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/base/test/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test2.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,25 +91,23 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="algorithms" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithms" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithms" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test38.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,137 +119,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test14_X.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test15.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test16.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test17.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test18.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/A.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test19.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test20.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test21_X.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/util/Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/Tree.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/BTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test22.java" />
-        <option value="$PROJECT_DIR$/doc/note.md" />
-        <option value="$PROJECT_DIR$/doc/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test24.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test25.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test26.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test27.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/P_C.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/HashMapManyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test28.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test29.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test30.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test31.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test32.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test33.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test4_ByteOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test5_Thread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test34.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test35.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test35_X.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test36.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/test_thread_pool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test36.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test37.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test37_x.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test38.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-230" />
-    <option name="y" value="-1080" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
   <component name="ProjectId" id="1fnalYFj8FO41fsZFwHyRSvC4oD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zw" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zw" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -238,25 +142,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Test38">
-    <configuration name="Test35_X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test35_X" />
-      <module name="java-algorithms_main" />
+  <component name="RunManager" selected="Application.Test9">
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test5" />
+      <module name="algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
+          <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test36" />
-      <module name="java-algorithms_main" />
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test6" />
+      <module name="algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
+          <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test37_x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test37_x" />
-      <module name="java-algorithms_main" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test7" />
+      <module name="algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
+          <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.test2.Test38" />
-      <module name="java-algorithms_main" />
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test8" />
+      <module name="algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.algorithms.test2.*" />
+          <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.base.test.TestThreadPool" />
-      <module name="java-algorithms_main" />
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test9" />
+      <module name="algorithms_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.base.test.*" />
+          <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,15 +210,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test38" />
-        <item itemvalue="Application.Test37_x" />
-        <item itemvalue="Application.TestThreadPool" />
-        <item itemvalue="Application.Test36" />
-        <item itemvalue="Application.Test35_X" />
+        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.Test5" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -499,132 +391,8 @@
       <option name="project" value="LOCAL" />
       <updated>1597403543000</updated>
     </task>
-    <task id="LOCAL-00024" summary="验证回文串">
-      <created>1597405034437</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1597405034437</updated>
-    </task>
-    <task id="LOCAL-00025" summary="note">
-      <created>1597664284322</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1597664284322</updated>
-    </task>
-    <task id="LOCAL-00026" summary="只出现一次的数字">
-      <created>1597748332905</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1597748332905</updated>
-    </task>
-    <task id="LOCAL-00027" summary="判断链表是否有环, 环的长度, 环的入口">
-      <created>1597751679469</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1597751679469</updated>
-    </task>
-    <task id="LOCAL-00028" summary="设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。">
-      <created>1597753228999</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1597753228999</updated>
-    </task>
-    <task id="LOCAL-00029" summary="编写一个程序，找到两个单链表相交的起始节点。">
-      <created>1597833393993</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1597833393993</updated>
-    </task>
-    <task id="LOCAL-00030" summary="两数之和 II - 输入有序数组">
-      <created>1597836336787</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1597836336787</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Excel表列名称">
-      <created>1597839437373</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1597839437373</updated>
-    </task>
-    <task id="LOCAL-00032" summary="多数元素">
-      <created>1597922699452</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1597922699452</updated>
-    </task>
-    <task id="LOCAL-00033" summary="阶乘后的零">
-      <created>1597924663181</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1597924663181</updated>
-    </task>
-    <task id="LOCAL-00034" summary="旋转数组">
-      <created>1597975446818</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1597975446818</updated>
-    </task>
-    <task id="LOCAL-00035" summary="note">
-      <created>1597997437734</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1597997437734</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Test37_x">
-      <created>1598008316284</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1598008316284</updated>
-    </task>
-    <option name="localTasksCounter" value="37" />
+    <option name="localTasksCounter" value="24" />
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-230" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20770878" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.39959636" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49946466" weight="0.65085775" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010707" side_tool="true" weight="0.48335016" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.790111" />
-      <window_info anchor="bottom" id="Build" order="9" weight="0.25227043" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49892932" weight="0.62058526" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" weight="0.32976446" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
@@ -635,19 +403,16 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
               </option>
             </State>
           </value>
@@ -668,10 +433,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和。" />
+    <MESSAGE value="给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。" />
+    <MESSAGE value="给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。" />
+    <MESSAGE value="判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。" />
+    <MESSAGE value="罗马数字转整数" />
+    <MESSAGE value="编写一个函数来查找字符串数组中的最长公共前缀。" />
+    <MESSAGE value="给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。" />
+    <MESSAGE value="合并两个有序链表" />
+    <MESSAGE value="note" />
+    <MESSAGE value="删除排序数组中的重复项" />
     <MESSAGE value="计算斐波那契数列：F(n)=F(n-1)+F(n-2) (n为自然数，F(0)=0,F(1)=1)" />
     <MESSAGE value="最大子序和" />
     <MESSAGE value="最后一个单词的长度" />
@@ -685,41 +461,29 @@
     <MESSAGE value="杨辉三角" />
     <MESSAGE value="买卖股票的最佳时机-1" />
     <MESSAGE value="买卖股票的最佳时机(2)" />
-    <MESSAGE value="验证回文串" />
-    <MESSAGE value="只出现一次的数字" />
-    <MESSAGE value="判断链表是否有环, 环的长度, 环的入口" />
-    <MESSAGE value="设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。" />
-    <MESSAGE value="编写一个程序，找到两个单链表相交的起始节点。" />
-    <MESSAGE value="两数之和 II - 输入有序数组" />
-    <MESSAGE value="Excel表列名称" />
-    <MESSAGE value="多数元素" />
-    <MESSAGE value="阶乘后的零" />
-    <MESSAGE value="旋转数组" />
-    <MESSAGE value="note" />
-    <MESSAGE value="Test37_x" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test37_x" />
+    <option name="LAST_COMMIT_MESSAGE" value="买卖股票的最佳时机(2)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1596856476116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596856476116" />
-    <state width="1483" height="509" key="GridCell.Tab.0.bottom" timestamp="1596884794408">
+    <state width="1483" height="509" key="GridCell.Tab.0.bottom" timestamp="1598174094091">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596884794408" />
-    <state width="1483" height="509" key="GridCell.Tab.0.center" timestamp="1596884794407">
+    <state width="1483" height="509" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598174094091" />
+    <state width="1483" height="509" key="GridCell.Tab.0.center" timestamp="1598174094091">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596884794407" />
-    <state width="1483" height="509" key="GridCell.Tab.0.left" timestamp="1596884794407">
+    <state width="1483" height="509" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598174094091" />
+    <state width="1483" height="509" key="GridCell.Tab.0.left" timestamp="1598174094090">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596884794407" />
-    <state width="1483" height="509" key="GridCell.Tab.0.right" timestamp="1596884794408">
+    <state width="1483" height="509" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598174094090" />
+    <state width="1483" height="509" key="GridCell.Tab.0.right" timestamp="1598174094091">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596884794408" />
+    <state width="1483" height="509" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598174094091" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1596882707615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -728,457 +492,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596880027545" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1598080576696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1598080576696" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doc/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/kmp.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/BTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1089">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#generate#0;class#Test23#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="105" column="38" lean-forward="true" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="701" column="24" selection-start-line="701" selection-start-column="24" selection-end-line="701" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4322">
-          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/P_C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/HashMapManyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#107#123#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="652" column="33" selection-start-line="652" selection-start-column="33" selection-end-line="652" selection-end-column="33" />
-          <folding>
-            <element signature="e#19103#19104#0" expanded="true" />
-            <element signature="e#19161#19162#0" expanded="true" />
-            <element signature="e#24329#24330#0" expanded="true" />
-            <element signature="e#24394#24395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1/Test30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#1248#1249#0" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="213" column="23" selection-start-line="213" selection-start-column="23" selection-end-line="213" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="577" column="12" lean-forward="true" selection-start-line="577" selection-start-column="12" selection-end-line="577" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/ByteOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
-          <folding>
-            <element signature="e#1527#1528#0" expanded="true" />
-            <element signature="e#1566#1567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/Test4_ByteOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/Test5_Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#test2#0;class#Test5_Thread#0" />
-            <element signature="method#test1#0;class#Test5_Thread#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="909" column="6" lean-forward="true" selection-start-line="909" selection-start-column="6" selection-end-line="909" selection-end-column="6" />
-          <folding>
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
-          <folding>
-            <element signature="e#4931#4932#0" expanded="true" />
-            <element signature="e#4970#4971#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/management/monitor/Monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="1532" column="52" selection-start-line="1532" selection-start-column="52" selection-end-line="1532" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2170">
-          <caret line="428" column="11" selection-start-line="428" selection-start-column="11" selection-end-line="428" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="601" column="8" selection-start-line="601" selection-start-column="8" selection-end-line="601" selection-end-column="8" />
-          <folding>
-            <element signature="e#15215#15216#0" expanded="true" />
-            <element signature="e#15264#15265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
-          <caret line="900" column="20" selection-start-line="900" selection-start-column="20" selection-end-line="900" selection-end-column="20" />
-          <folding>
-            <element signature="e#60039#60040#0" expanded="true" />
-            <element signature="e#60075#60076#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="782" column="32" selection-start-line="782" selection-start-column="32" selection-end-line="782" selection-end-column="32" />
-          <folding>
-            <element signature="e#5550#5551#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="456" column="38" selection-start-line="456" selection-start-column="38" selection-end-line="456" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/base/test/TestThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#2277#2278#0" expanded="true" />
-            <element signature="e#2355#2356#0" expanded="true" />
-            <element signature="e#2696#2697#0" expanded="true" />
-            <element signature="e#2734#2735#0" expanded="true" />
-            <element signature="e#2781#2782#0" expanded="true" />
-            <element signature="e#2838#2839#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test35_X.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test37_x.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zw/algorithms/test2/Test38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
