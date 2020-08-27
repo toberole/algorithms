@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/algorithms.iml" filepath="$PROJECT_DIR$/.idea/algorithms.iml" group="algorithms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithms.iml" filepath="$PROJECT_DIR$/.idea/algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithms.main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithms.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithms.test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithms.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithms_main.iml" group="algorithms" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithms_test.iml" group="algorithms" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-algorithms.iml" filepath="$PROJECT_DIR$/.idea/modules/java-algorithms.iml" group="algorithms" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-algorithms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-algorithms_main.iml" group="algorithms" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-algorithms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-algorithms_test.iml" group="algorithms" />

@@ -2,7 +2,6 @@ package com.zw.base.test;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.CyclicBarrier;
-import java.util.concurrent.TimeUnit;
 
 /**
  * CAS
@@ -72,7 +71,7 @@ import java.util.concurrent.TimeUnit;
  * 每当一个线程完成了自己的任务（学生完成交卷），那么就使用CountDownLatch.countdown（）方法来
  * 做一次state的减一操作，在内部是通过CAS完成这个更新操作，直到所有的线程执行完毕，也就是说计数值变成0，
  * 那么就然后在闭锁上等待的线程就可以恢复执行任务。
- *
+ * <p>
  * CyclicBarrier原理 栅栏
  * CyclicBarrier 的字面意思是可循环（Cyclic）使用的屏障（Barrier）。它要做的事情是，让一组线程到达一个屏障（也可以叫同步点）时被阻塞，直到最后一个线程到达屏障时，屏障才会开门，所有被屏障拦截的线程才会继续干活。线程进入屏障通过CyclicBarrier的await()方法。
  * 实现原理：在CyclicBarrier的内部定义了一个Lock对象，其实就是ReenTrantLock对象，每当一个线程调用CyclicBarrier的await方法时，将剩余拦截的线程数减1，然后判断剩余拦截数是否为0，如果不是，进入Lock对象的条件队列等待。如果是，执行barrierAction对象的Runnable方法，然后将锁的条件队列中的所有线程放入锁等待队列中，这些线程会依次的获取锁、释放锁，接着先从await方法返回，再从CyclicBarrier的await方法中返回。
@@ -81,6 +80,9 @@ import java.util.concurrent.TimeUnit;
  * 3.超时也可以退出栅栏
  */
 public class Test_CAS_AQS {
+    private final static int count = 10;
+    private static CyclicBarrier cyclicBarrier;
+
     public static void main(String[] args) {
 //        test_CountDownLatch();
         test_CyclicBarrier();
@@ -90,13 +92,18 @@ public class Test_CAS_AQS {
      * CyclicBarrier 多个任务运行到一个节点的时候 才能继续运行 齐头并进
      */
     private static void test_CyclicBarrier() {
-        int count = 10;
-        CyclicBarrier cyclicBarrier = new CyclicBarrier(count, new Runnable() {
+        cyclicBarrier = new CyclicBarrier(count, new Runnable() {
             @Override
             public void run() {
-                System.out.println("CyclicBarrier ......");
+                System.out.println("************ CyclicBarrier ************");
             }
         });
+        startThread(count, cyclicBarrier);
+        System.out.println("test_CyclicBarrier ......");
+        startThread(count, cyclicBarrier);
+    }
+
+    private static void startThread(int count, CyclicBarrier cyclicBarrier) {
         Thread[] threads = new Test_CyclicBarrier_Thread[count];
         for (int i = 0; i < count; i++) {
             threads[i] = new Test_CyclicBarrier_Thread(cyclicBarrier);
@@ -104,7 +111,6 @@ public class Test_CAS_AQS {
         for (int i = 0; i < count; i++) {
             threads[i].start();
         }
-        System.out.println("test_CyclicBarrier ......");
     }
 
     /**
@@ -112,7 +118,6 @@ public class Test_CAS_AQS {
      */
     private static void test_CountDownLatch() {
         try {
-            int count = 10;
             CountDownLatch countDownLatch = new CountDownLatch(count);
             Thread[] threads = new Test_CountDownLatch_Thread[count];
             for (int i = 0; i < count; i++) {

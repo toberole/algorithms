@@ -4,44 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d3f5be-b49a-4bb3-bfcf-a823d86df84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/AQS_Mutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/AQS_Share_Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test_CAS_AQS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test_Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test18_X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test19_X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/jzoffer/Test21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/kotlin/Test1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_122.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/algorithms.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/algorithms.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms_test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/BTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/zw/algorithms/bean/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/BTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/BTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/algorithms/bean/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test_CAS_AQS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zw/base/test/Test_CAS_AQS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +95,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -120,10 +126,10 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/zw/algorithms/test1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test_CAS_AQS">
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test7" />
-      <module name="algorithms_main" />
+  <component name="RunManager" selected="Application.Test20">
+    <configuration name="Test14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test14" />
+      <module name="algorithms.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
@@ -134,9 +140,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test8" />
-      <module name="algorithms_main" />
+    <configuration name="Test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test15" />
+      <module name="algorithms.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
@@ -147,9 +153,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test9" />
-      <module name="algorithms_main" />
+    <configuration name="Test16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test16" />
+      <module name="algorithms.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
@@ -160,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_CAS_AQS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.base.test.Test_CAS_AQS" />
-      <module name="algorithms_main" />
+    <configuration name="Test17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test17" />
+      <module name="algorithms.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.base.test.*" />
+          <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_Lock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zw.base.test.Test_Lock" />
-      <module name="algorithms_main" />
+    <configuration name="Test20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.algorithms.jzoffer.Test20" />
+      <module name="algorithms.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zw.base.test.*" />
+          <option name="PATTERN" value="com.zw.algorithms.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,13 +192,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Test14" />
+      <item itemvalue="Application.Test15" />
+      <item itemvalue="Application.Test16" />
+      <item itemvalue="Application.Test17" />
+      <item itemvalue="Application.Test20" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test_CAS_AQS" />
-        <item itemvalue="Application.Test_Lock" />
-        <item itemvalue="Application.Test9" />
-        <item itemvalue="Application.Test8" />
-        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test20" />
+        <item itemvalue="Application.Test17" />
+        <item itemvalue="Application.Test16" />
+        <item itemvalue="Application.Test15" />
+        <item itemvalue="Application.Test14" />
       </list>
     </recent_temporary>
   </component>
@@ -447,46 +460,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="买卖股票的最佳时机(2)" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Plugins" timestamp="1598499674346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1598499674346" />
     <state x="249" y="0" key="#Project_Structure" timestamp="1596856476116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596856476116" />
-    <state x="527" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1598433548272">
+    <state x="219" y="57" width="1103" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598501162670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="527" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598433548272" />
+    <state x="219" y="57" width="1103" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598501162670" />
+    <state x="527" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1598504219022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598504219022" />
     <state x="106" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598434061525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="106" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1598434061525" />
-    <state width="1483" height="509" key="GridCell.Tab.0.bottom" timestamp="1598437004971">
+    <state x="496" y="107" key="FileChooserDialogImpl" timestamp="1598500611391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598437004971" />
-    <state width="1483" height="509" key="GridCell.Tab.0.center" timestamp="1598437004971">
+    <state x="496" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598500611391" />
+    <state width="1483" height="509" key="GridCell.Tab.0.bottom" timestamp="1598515092969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598437004971" />
-    <state width="1483" height="509" key="GridCell.Tab.0.left" timestamp="1598437004971">
+    <state width="1483" height="509" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598515092969" />
+    <state width="1483" height="509" key="GridCell.Tab.0.center" timestamp="1598515092969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598437004971" />
-    <state width="1483" height="509" key="GridCell.Tab.0.right" timestamp="1598437004971">
+    <state width="1483" height="509" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598515092969" />
+    <state width="1483" height="509" key="GridCell.Tab.0.left" timestamp="1598515092969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="509" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598437004971" />
+    <state width="1483" height="509" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598515092969" />
+    <state width="1483" height="509" key="GridCell.Tab.0.right" timestamp="1598515092969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="509" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598515092969" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1596882707615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596882707615" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1598177858982">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1598437521811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598177858982" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598437521811" />
     <state x="516" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598405569668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598405569668" />
+    <state x="433" y="116" key="extract.method.dialog" timestamp="1598498715233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="116" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1598498715233" />
+    <state x="244" y="0" key="new project wizard" timestamp="1598500634158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598500634158" />
     <state x="341" y="183" key="run.anything.popup" timestamp="1598080576696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

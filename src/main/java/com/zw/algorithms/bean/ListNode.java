@@ -68,4 +68,10 @@ public class ListNode {
         System.out.println(sb.toString());
     }
 
+    @Override
+    public String toString() {
+        return "ListNode{" +
+                "val=" + val +
+                '}';
+    }
 }
