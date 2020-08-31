@@ -4,16 +4,16 @@ bin/
 gen/
 out/
 
-.gradle/*
-build/
+.gradle
+build
 local.properties
-proguard/
+proguard
 
 *.iml
-.idea/*
+.idea
 
 .externalNativeBuild
-.cxx/
+.cxx
 
 vcs.xml
 
