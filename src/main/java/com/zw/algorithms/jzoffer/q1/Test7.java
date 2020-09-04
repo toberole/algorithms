@@ -1,4 +1,4 @@
-package com.zw.algorithms.jzoffer;
+package com.zw.algorithms.jzoffer.q1;
 
 import java.util.Stack;
 
