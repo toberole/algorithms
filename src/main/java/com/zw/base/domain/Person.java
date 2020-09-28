@@ -1,10 +1,13 @@
 package com.zw.base.domain;
 
+// import com.zw.base.test.Bean;
+
 import java.io.Serializable;
 import java.util.Objects;
 
 public class Person implements Serializable, Cloneable {
     public Car car;
+    //   public Bean bean;
 
     public int age;
     public String name;
