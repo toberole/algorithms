@@ -8,7 +8,7 @@ import java.util.concurrent.locks.Lock;
 /**
  * 使用AQS实现自定义独占锁
  */
-public class AQS_Mutex implements Lock {
+public class AQS_Mutex_Lock implements Lock {
     // 将操作代理到 Sync 上
     private final Sync sync = new Sync();
 
@@ -118,7 +118,7 @@ public class AQS_Mutex implements Lock {
     public static void withMutex() {
         System.out.println("With mutex: ");
 
-        final AQS_Mutex mutex = new AQS_Mutex();
+        final AQS_Mutex_Lock mutex = new AQS_Mutex_Lock();
         int threadCount = 2;
         final Thread threads[] = new Thread[threadCount];
         for (int i = 0; i < threads.length; i++) {
