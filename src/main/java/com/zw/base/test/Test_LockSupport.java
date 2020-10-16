@@ -2,7 +2,7 @@ package com.zw.base.test;
 
 import java.util.concurrent.locks.LockSupport;
 
-public class LockSupportDemo {
+public class Test_LockSupport {
     public static void main(String[] args) throws InterruptedException {
         Thread a = new Thread(new Runnable() {
             @Override
@@ -19,7 +19,11 @@ public class LockSupportDemo {
         Thread b = new Thread(new Runnable() {
             @Override
             public void run() {
-
+                try {
+                    Thread.sleep(2000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 String before = (String) LockSupport.getBlocker(a);
                 System.out.println("阻塞时从线程a中获取的blocker------>" + before);
                 LockSupport.unpark(a);
@@ -37,6 +41,5 @@ public class LockSupportDemo {
         });
         b.start();
     }
-
 }
 
