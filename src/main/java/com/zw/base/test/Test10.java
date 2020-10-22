@@ -8,8 +8,8 @@ public class Test10 {
         List<String> strs = new ArrayList<>();
         strs.add(0, "hello1");
         strs.add(1, "hello2");
-        strs.add(1, "xxxxx");
+        strs.add(1, "hello3");
 
-        System.out.println("end ......");
+        System.out.println("end ...... " + strs.get(1));
     }
 }
