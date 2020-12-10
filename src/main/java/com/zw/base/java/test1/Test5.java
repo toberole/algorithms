@@ -1,5 +1,7 @@
 package com.zw.base.java.test1;
 
+import sun.misc.ProxyGenerator;
+
 public class Test5 {
     public volatile int inc = 0;
 
@@ -10,12 +12,10 @@ public class Test5 {
     public static void main(String[] args) {
         final Test5 test = new Test5();
         for (int i = 0; i < 10; i++) {
-            new Thread() {
-                public void run() {
-                    for (int j = 0; j < 1000; j++)
-                        test.increase();
-                }
-            }.start();
+            new Thread(() -> {
+                for (int j = 0; j < 1000; j++)
+                    test.increase();
+            }).start();
         }
 
         try {
@@ -25,5 +25,7 @@ public class Test5 {
         }
 
         System.out.println(test.inc);
+
+        // ProxyGenerator.generateProxyClass()
     }
 }
