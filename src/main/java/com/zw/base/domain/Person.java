@@ -1,6 +1,6 @@
 package com.zw.base.domain;
 
-// import com.zw.base.test.Bean;
+// import com.zw.base.java.test.Bean;
 
 import java.io.Serializable;
 import java.util.Objects;
