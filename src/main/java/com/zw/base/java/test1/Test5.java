@@ -1,6 +1,5 @@
 package com.zw.base.java.test1;
 
-import sun.misc.ProxyGenerator;
 
 public class Test5 {
     public volatile int inc = 0;
