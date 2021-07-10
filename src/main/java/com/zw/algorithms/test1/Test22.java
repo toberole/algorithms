@@ -1,6 +1,7 @@
 package com.zw.algorithms.test1;
 
 import com.zw.algorithms.bean.BTree;
+import com.zw.algorithms.bean.TreeNode;
 
 /**
  * 给定两个二叉树，编写一个函数来检验它们是否相同。
@@ -19,7 +20,7 @@ public class Test22 {
         bTree.print();
     }
 
-    public static boolean isSameTree(BTree.TreeNode p, BTree.TreeNode q) {
+    public static boolean isSameTree(TreeNode p, TreeNode q) {
         if (p == null && q == null) return true;
         if (p == null || q == null) return false;
         if (p.val != q.val) return false;

@@ -1,6 +1,6 @@
 package com.zw.algorithms.jzoffer.q2;
 
-import com.zw.algorithms.bean.BTree;
+import com.zw.algorithms.bean.TreeNode;
 
 /**
  * 二叉搜索树的最近公共祖先
@@ -13,9 +13,9 @@ public class Test10 {
     /**
      * 二叉搜索树
      */
-    public static BTree.TreeNode lowestCommonAncestor1(BTree.TreeNode root,
-                                                       BTree.TreeNode p,
-                                                       BTree.TreeNode q) {
+    public static TreeNode lowestCommonAncestor1(TreeNode root,
+                                                 TreeNode p,
+                                                 TreeNode q) {
         if (root == null) return null;
         if (root.val > p.val && root.val > q.val) {
             //说明p，q都在左子树
@@ -32,17 +32,17 @@ public class Test10 {
     /**
      * 普通二叉树
      */
-    public static BTree.TreeNode lowestCommonAncestor2(BTree.TreeNode root,
-                                                       BTree.TreeNode p,
-                                                       BTree.TreeNode q) {
+    public static TreeNode lowestCommonAncestor2(TreeNode root,
+                                                 TreeNode p,
+                                                 TreeNode q) {
         if (root == null) return null;
 
         //如果根节点就是p或者q，返回根节点
         if (root == p || root == q) return root;
 
         //分别去左右子树里面找
-        BTree.TreeNode left = lowestCommonAncestor2(root.left, p, q);
-        BTree.TreeNode right = lowestCommonAncestor2(root.right, p, q);
+        TreeNode left = lowestCommonAncestor2(root.left, p, q);
+        TreeNode right = lowestCommonAncestor2(root.right, p, q);
 
         if (left != null && right != null) {
             //p，q各在一边，说明当前的根就是最近共同祖先

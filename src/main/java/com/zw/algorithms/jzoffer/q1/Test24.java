@@ -1,6 +1,7 @@
 package com.zw.algorithms.jzoffer.q1;
 
 import com.zw.algorithms.bean.BTree;
+import com.zw.algorithms.bean.TreeNode;
 
 /**
  * 二叉搜索树的第k大节点
@@ -21,7 +22,7 @@ public class Test24 {
 
     }
 
-    public static int kthLargest(BTree.TreeNode root, int k) {
+    public static int kthLargest(TreeNode root, int k) {
         if (k==1)return root.val;
 
         kthLargest(root.left,k--);

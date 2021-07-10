@@ -1,6 +1,7 @@
 package com.zw.algorithms.jzoffer.q2;
 
 import com.zw.algorithms.bean.BTree;
+import com.zw.algorithms.bean.TreeNode;
 
 import java.util.Arrays;
 
@@ -43,7 +44,7 @@ public class Test11 {
      * 将【中序遍历列表】的节点分割成【左分支节点】和【右分支节点】
      * 递归寻找【左分支节点】中的【根节点 (left child)】和 【右分支节点】中的【根节点 (right child)】
      */
-    public static BTree.TreeNode buildTree(int[] preorder, int[] inorder) {
+    public static TreeNode buildTree(int[] preorder, int[] inorder) {
         if (preorder.length == 0) return null;
 
         int rootVal = preorder[0];
@@ -56,7 +57,7 @@ public class Test11 {
             }
         }
 
-        BTree.TreeNode root = new BTree.TreeNode(rootVal);
+        TreeNode root = new  TreeNode(rootVal);
 
         root.left = buildTree(
                 Arrays.copyOfRange(preorder, 1, 1 + rootIndex),

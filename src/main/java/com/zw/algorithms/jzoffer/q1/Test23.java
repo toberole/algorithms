@@ -1,6 +1,7 @@
 package com.zw.algorithms.jzoffer.q1;
 
 import com.zw.algorithms.bean.BTree;
+import com.zw.algorithms.bean.TreeNode;
 
 /**
  * 二叉树的深度
@@ -13,7 +14,7 @@ public class Test23 {
 
     }
 
-    public static int maxDepth(BTree.TreeNode root) {
+    public static int maxDepth( TreeNode root) {
         if (root == null) return 0;
         int ld = maxDepth(root.left) + 1;
         int rd = maxDepth(root.right) + 1;

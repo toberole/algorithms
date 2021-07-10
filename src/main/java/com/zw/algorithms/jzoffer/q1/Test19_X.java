@@ -1,6 +1,7 @@
 package com.zw.algorithms.jzoffer.q1;
 
 import com.zw.algorithms.bean.BTree;
+import com.zw.algorithms.bean.TreeNode;
 
 /**
  * 对称的二叉树
@@ -34,7 +35,7 @@ public class Test19_X {
 
     }
 
-    public static boolean isSymmetric(BTree.TreeNode root) {
+    public static boolean isSymmetric( TreeNode root) {
         if (root == null) return true;
         return helper(root.left, root.right);
     }
@@ -57,7 +58,7 @@ public class Test19_X {
      * 只有左左和右右镜像且左右和右左镜像的时候，我们才能说这两棵树是镜像的
      * 调用递归函数，我们想知道它的左右孩子是否镜像，传入的值是root的左孩子和右孩子。这之前记得判个root==null。
      */
-    public static boolean helper(BTree.TreeNode root1, BTree.TreeNode root2) {
+    public static boolean helper( TreeNode root1,  TreeNode root2) {
         if (root1 == null && root2 == null) return true;
         if (root1 == null || root2 == null) return false;
         return root1.val == root2.val

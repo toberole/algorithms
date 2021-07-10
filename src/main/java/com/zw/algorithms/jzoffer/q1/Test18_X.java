@@ -1,6 +1,7 @@
 package com.zw.algorithms.jzoffer.q1;
 
 import com.zw.algorithms.bean.BTree;
+import com.zw.algorithms.bean.TreeNode;
 
 import java.util.Stack;
 
@@ -44,9 +45,9 @@ public class Test18_X {
      * 时间复杂度 O(N)O(N) ： 其中 NN 为二叉树的节点数量，建立二叉树镜像需要遍历树的所有节点，占用 O(N)O(N) 时间。
      * 空间复杂度 O(N)O(N) ： 最差情况下（当二叉树退化为链表），递归时系统需使用 O(N)O(N) 大小的栈空间。
      */
-    public BTree.TreeNode mirrorTree(BTree.TreeNode root) {
+    public TreeNode mirrorTree(TreeNode root) {
         if (root == null) return null;
-        BTree.TreeNode tmp = root.left;
+        TreeNode tmp = root.left;
         root.left = mirrorTree(root.right);
         root.right = mirrorTree(tmp);
         return root;
@@ -68,16 +69,16 @@ public class Test18_X {
      * 时间复杂度 O(N)O(N) ： 其中 NN 为二叉树的节点数量，建立二叉树镜像需要遍历树的所有节点，占用 O(N)O(N) 时间。
      * 空间复杂度 O(N)O(N) ： 最差情况下（当为满二叉树时），栈 stackstack 最多同时存储 N/2N/2 个节点，占用 O(N)O(N) 额外空间。
      */
-    public static BTree.TreeNode mirrorTree1(BTree.TreeNode root) {
+    public static TreeNode mirrorTree1(TreeNode root) {
         if (root == null) return null;
-        Stack<BTree.TreeNode> stack = new Stack<>();
+        Stack<TreeNode> stack = new Stack<>();
         stack.add(root);
         while (!stack.isEmpty()) {
-            BTree.TreeNode node = stack.pop();
+            TreeNode node = stack.pop();
             if (node.left != null) stack.add(node.left);
             if (node.right != null) stack.add(node.right);
 
-            BTree.TreeNode tmp = node.left;
+            TreeNode tmp = node.left;
             node.left = node.right;
             node.right = tmp;
         }
