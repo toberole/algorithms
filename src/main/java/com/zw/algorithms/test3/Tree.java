@@ -177,7 +177,7 @@ public class Tree {
 
         kthLargest(root.left, k--);
         kthLargest(root.right, k--);
-
+        return 0;
     }
 
     public static void main(String[] args) {
