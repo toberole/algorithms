@@ -1,5 +1,7 @@
 package com.zw.algorithms.test3;
 
+import com.zw.algorithms.bean.ListNode;
+
 public class Solution1 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode dum = new ListNode(0);

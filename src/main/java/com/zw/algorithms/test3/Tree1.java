@@ -22,4 +22,38 @@ public class Tree1 {
         }
         get_k(root.left);
     }
+
+    public boolean isBalanced(TreeNode root) {
+        if (root == null) {
+            return true;
+        } else {
+            return Math.abs(height(root.left) - height(root.right)) <= 1 && isBalanced(root.left) && isBalanced(root.right);
+        }
+    }
+
+    public int height(TreeNode root) {
+        if (root == null) {
+            return 0;
+        } else {
+            return Math.max(height(root.left), height(root.right)) + 1;
+        }
+    }
+
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if (root == null) return null;
+
+        TreeNode ret = root;
+        while (true) {
+            if (p.val < ret.val && q.val < ret.val) {
+                ret = ret.left;
+            } else if (p.val > ret.val && q.val > ret.val) {
+                ret = ret.right;
+            } else {
+                break;
+            }
+        }
+
+        return ret;
+    }
+
 }
