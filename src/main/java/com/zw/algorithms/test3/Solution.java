@@ -1,5 +1,7 @@
 package com.zw.algorithms.test3;
 
+import com.zw.algorithms.bean.ListNode;
+
 import java.util.Stack;
 
 public class Solution {
