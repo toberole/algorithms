@@ -1,6 +1,5 @@
 package com.zw.algorithms.test4;
 
-import com.zw.algorithms.base.List;
 import com.zw.algorithms.bean.ListNode;
 
 import java.util.ArrayList;

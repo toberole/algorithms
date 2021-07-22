@@ -7,6 +7,7 @@ public class Test9 {
     private static BlockingDeque<String> stringBlockingDeque = new LinkedBlockingDeque<>();
 
     private static volatile int k1 = 100;
+
     private static volatile int k2 = 100;
 
     private static void p() {
