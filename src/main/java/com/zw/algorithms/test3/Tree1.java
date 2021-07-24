@@ -2,6 +2,9 @@ package com.zw.algorithms.test3;
 
 import com.zw.algorithms.bean.TreeNode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Tree1 {
     private int k;
     private int res;
@@ -59,10 +62,24 @@ public class Tree1 {
     public boolean isSubStructure(TreeNode A, TreeNode B) {
         return (A != null && B != null) && (recur(A, B) || isSubStructure(A.left, B) || isSubStructure(A.right, B));
     }
+
     boolean recur(TreeNode A, TreeNode B) {
-        if(B == null) return true;
-        if(A == null || A.val != B.val) return false;
+        if (B == null) return true;
+        if (A == null || A.val != B.val) return false;
         return recur(A.left, B.left) && recur(A.right, B.right);
     }
 
+
+    private java.util.List<Integer> aList = new ArrayList<>();
+    private java.util.List<Integer> bList = new ArrayList<>();
+
+    public boolean isSubStructure1(TreeNode A, TreeNode B) {
+        visitTree(A, aList);
+        visitTree(B, bList);
+        return false;
+    }
+
+    private void visitTree(TreeNode a, List<Integer> aList) {
+
+    }
 }
