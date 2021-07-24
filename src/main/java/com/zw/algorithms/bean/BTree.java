@@ -9,16 +9,10 @@ public class BTree {
         root = new TreeNode();
     }
 
-    /**
-     * 先序递归创建二叉树
-     * */
     public void preOrderCreate() {
         preOrderCreateTree(root);
     }
 
-    /**
-     * 中序递归创建二叉树
-     */
     public void midOrderCreate() {
         midOrderCreateTree(root);
     }
@@ -37,9 +31,6 @@ public class BTree {
         return treeNode;
     }
 
-    /**
-     * 后续递归创建二叉树
-     */
     public void postOrderCreate() {
         postOrderCreateTree(root);
     }
@@ -52,9 +43,6 @@ public class BTree {
         printTree(root);
     }
 
-    /**
-     * 前递序 归创建二叉树
-     */
     private TreeNode preOrderCreateTree(TreeNode node) {
         if (0 == treeValue.data[treeValue.index]) return null;
 
@@ -71,9 +59,6 @@ public class BTree {
         return node;
     }
 
-    /**
-     * 前序打印
-     */
     private void printTree(TreeNode treeNode) {
         if (treeNode == null) return;
         System.out.println(treeNode.val);
